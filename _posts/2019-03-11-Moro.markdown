@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Moro!"
-date:   2019-03-11 17:47:33 +0200
+title:  "Johdanto aihepiiriin"
+date:   2019-3-5 00:00:00 +0200
 categories: jekyll update
 ---
-Moro
+# Ensimmäinen luentoviikko: Johdanto aihepiiriin
 
-Täällä ei ole vielä sisältöä, kirjoittelen sitä kurssin edetessä kun ehdin.
