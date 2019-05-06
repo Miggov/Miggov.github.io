@@ -4,5 +4,6 @@ title:  "Johdanto aihepiiriin"
 date:   2019-3-5 00:00:00 +0200
 categories: jekyll update
 ---
-# Ensimmäinen luentoviikko: Johdanto aihepiiriin
+Ensimmäisellä luentoviikolla perehdyttiin aihepiiriin ja kurssin käytännön asioihin. Luennolla käsiteltiin datatieteen määritelmää, asemaa ja edellytyksiä. Koodiklinikalla käytiin läpi pandasin perusteita sekä kehitysympäristöjä.
 
+Datatiede on melko laaja ja monialainen käsite. Luentomateriaalissa viitatussa [Harvard Business Rewinew:n artikkelissa](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) datatieteilijä on "Korkea-arvoinen ammattilainen, joka omaa tarvittavan koulutustaustan ja uteliaisuuden tehdäkseen uusia löytöjä bigdatan aikakaudella". Kyse ei siis ole tekoälykoodarista eikä toisaalta bisnesanalyytikosta, vaan jostain tältä väliltä. Käytännössä datatieteeksi kutsutaankin firmoissa melko monenlaista tekemistä, 
