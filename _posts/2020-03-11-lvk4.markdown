@@ -4,4 +4,7 @@ title:  "4. Harjoitustyöhön tutustuminen"
 date:   2019-3-26 00:00:00 +0200
 categories: jekyll update
 ---
-Neljännellä luennolla käsiteltiin harjoitustyötä
+Neljännellä luennolla käsiteltiin harjoitustyötä, datatieteen työprosessia ja liiketoimintarelevanssia.
+
+Kuten usein analytiikassa, käytetään datatieteessä usein CRISP-DM mallia. Verrattuna ensimmäisellä luennolla esitettyyn malliin, malli korostaa vähemmän käytännön tason tekemistä ja enemmän liiketoimintarelevanssin ymmärtämistä, joka on mielestäni erittäin tärkeää. Vaikka periaatteessa liiketoiminnallinen yhteys on selvää, saattaa se herkästi unohtua käytännön tasolla.
+
