@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3. Koneoppimisen perusteet"
-date:   2019-3- 00:00:00 +0200
+date:   2019-3-19 00:00:00 +0200
 categories: jekyll update
 ---
 Luennolla käsiteltiin koneoppimisen perusteita ja harjoitustyötä. Koodiklinikalla esiteltiin demo lineaarisesta regressiosta.
@@ -10,3 +10,4 @@ Koneoppimista voidaan jakaa neljään pääkategoriaan, ohjattuun, puoli-ohjattu
 
 Luennolla käsiteltiin myös piirteitä, jotka toimivat usein laskennallisen analytiikan perustana. Piirteitä voivat olla esimerkiksi kellonaika, kaupunginosa, tuotekategoria tai mikä tahansa minkä katsotaan olevan selittävässä asemassa. Piirteisiin liittyy myös standardointi (esimerkiksi yksiköt samoiksi), syötteen ulottuvuukisen vähentäminen tai kasvattaminen tarvittaessa (kasvattaa voidaan esimerkiksi laskemalla) ja kohinan poisto, joka voi tarkoittaa esimerkiksi kausivaihtelun poistoa, mikäli se ei ole tutkinnan kohteena.
 
+Olennaista koneoppimisen kanssa on aineiston laatu, varsinkin koulutusdatan kanssa on tutkittava hyvin tarkkaan, kuvaako se lopputulosta oikein. Esimerkiksi luennolla käsitellyssä tapauksessa kaikkia tapauksia ei voida mielekkäästi käsitellä, koska vastaavista tapauksista ei ole koulutusdataa.
