@@ -4,7 +4,7 @@ title:  "3. Koneoppimisen perusteet"
 date:   2019-3-19 00:00:00 +0200
 categories: jekyll update
 ---
-Luennolla käsiteltiin koneoppimisen perusteita ja harjoitustyötä. Koodiklinikalla esiteltiin demo lineaarisesta regressiosta.
+Luennolla käsiteltiin koneoppimisen perusteita ja harjoitustyötä. Koodiklinikalla käsiteltiin syvällisemmin luennolla esitettyä lainankäsittely-esimerkkiä.
 
 Koneoppimista voidaan jakaa neljään pääkategoriaan, ohjattuun, puoli-ohjattuun ja ohjaamattomaan oppimiseen. Ohjaamisella viitataan tässä opetusdataan, jolla kerrotaan algoritmille, mikä on toivottavaa. Esimerkiksi ohjattua oppimista olisi lineaarinen regressio ja ohjaamatonta klusterointi. Puoli-ohjattu oppiminen on jotain näiden välistä ja opetusdataa on saatavilla osittaisesti. Vahvistettu oppiminen taas tarkoittaa iteratiivista prosessia, jossa algoritmi oppii ympäristönsä perusteella. Tällöin ympäristössä on palkitsevia ja rankaisevia toimintoja, jolloin algorimti oppii maksimoimaan palkinnon ja minimoinmaan rangaistuksen. Tästä esimerkki olisi vaikkapa algoritmin opettaminen pelaamaan ajopeliä, jossa ulosajo tai hitaus johtaa rangaistukseen ja nopeus palkitsemiseen. Koneoppiminen on suuntaamassa kohti ohjaamattomia, puoli-ohjattuja ja vahvistettuja oppimisalgoritmejä, sillä usein opetusdatan käyttäminen on melko työlästä ja siten myös kallista.
 
