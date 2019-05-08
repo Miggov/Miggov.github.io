@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Neljännellä luennolla käsiteltiin harjoitustyötä, datatieteen työprosessia ja liiketoimintarelevanssia.
 
-Kuten usein analytiikassa, käytetään datatieteessä usein CRISP-DM mallia. Verrattuna ensimmäisellä luennolla esitettyyn malliin, malli korostaa vähemmän käytännön tason tekemistä ja enemmän liiketoimintarelevanssin ymmärtämistä, joka on mielestäni erittäin tärkeää. Vaikka periaatteessa liiketoiminnallinen yhteys on selvää, saattaa se herkästi unohtua käytännön tasolla.
+Kuten usein analytiikassa, käytetään datatieteessä usein itsellenikin hyvin tuttua CRISP-DM mallia. Verrattuna ensimmäisellä luennolla esitettyyn malliin, malli korostaa vähemmän käytännön tason tekemistä ja enemmän liiketoimintarelevanssin ymmärtämistä, joka on mielestäni erittäin tärkeää. Vaikka periaatteessa liiketoiminnallinen yhteys on selvää, saattaa se herkästi unohtua käytännön tasolla.
 
 Luennolla käsiteltiin esimerkkiä K-ryhmän koneoppimisalgoritmia, joka suosittelee reseptejä K-ruoka sovelluksen käyttäjille. Data kerätään ostoshistoriasta, joka saadaan plussa-etuohjelmasta. Näin sovellus on pystynyt suosittelemaan suosikkituotteita. Nyt tämä on laajennettu koskemaan myös palveluun tehtyjä ostoslistoja. Palvelu pystyy siis ostoslistoista kerätyn datan perusteella suositelemaan uusia ostoslistoja. Tavallaan kyseessä on myös datatieteen kannalta mukavasta projektista, sillä data ei oletettavasti sisällä esimerkiksi vapaita käyttäjäsyötteitä. Vaikeaa taas on esimerkiksi kohinan poisto (sesongit) ja mieltymysten vaihtelu.
 
