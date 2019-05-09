@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "5. Ohjaamaton koneoppiminen"
+date:   2019-4-9 00:00:00 +0200
+categories: jekyll update
+---
+Viidennellä luennolla käsiteltiin ohjaamatonta koneoppimista. Ohjaamattomassa oppimisessa ei tiedetä sisään tulevaa dataa yhtä hyvin, eikä algoritmia voida kouluttaa koulutusdatalla. Suurin paino on siis itse algorimilla. Yksi esimerkki ohjaamattomasta koneoppimisesta on klusterointi, jossa oikeat klusterit löydetään iteratiivisesti muuttamalla algorimin parametreja, kuten kulstereiden määrää.
+
+Saatua tietoa voidaan käyttää esimerkiksi asiakassegmenttien tunnistamaan tai vaikkapa tuotteiden ryhmittelemiseen kannattavuuden perusteella. Saatua ryhmittelyä voidaan tietysti myös käyttää analyysin tukena. Yksi haaste ohjaamattomassa oppimisessa on algorimin ohjaaminen oikeaan suuntaan. Esimerkiksi klusteroinnissa klustereiden määrän valinta ei ole useinkaan suoraviivaista. Määrää voidaan kokeilla tietysti iteratiivisesti ja arvioida paranevatko vai huononevatko. Suuntaa voi antaa myös esimerkiksi aiemmin kerätty tieto asiakkaista.
+
+Klustereiden määrää voidaan arvioida myös laskennallisesti. Luennolla tähän esiteltiin niinsanottu kyynärpäämenetelmä. 
